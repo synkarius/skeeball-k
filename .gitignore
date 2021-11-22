@@ -1,0 +1,21 @@
+# heaps debug files
+/*.js
+/*.js.map
+/*.hl
+
+# heaps temp
+assets/.tmp
+
+# Blender junk
+*.blend1
+
+# C output
+out/*
+main.obj
+
+# test
+.unittest/*
+
+# dist
+main.exe
+*.pak

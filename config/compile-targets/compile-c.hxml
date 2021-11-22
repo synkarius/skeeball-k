@@ -1,0 +1,6 @@
+config/common.hxml
+config/heaps.hxml
+config/libs.hxml
+
+-hl out/main.c
+-D release

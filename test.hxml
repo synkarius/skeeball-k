@@ -1,0 +1,11 @@
+-main TestSuite
+-cp src
+-cp test
+
+config/libs.hxml
+-lib utest
+
+config/heaps.hxml
+
+-hl tests.hl
+-cmd hl tests.hl

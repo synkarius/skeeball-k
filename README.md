@@ -1,4 +1,4 @@
-# K Skee
+# Skeeball K
 
 ## Dependencies
 
